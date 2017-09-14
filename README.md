@@ -1,7 +1,6 @@
 
 ```
 autopep8 --in-place --aggressive --aggressive --recursive --verbose .;git status;git add .;git commit;git pull origin master;git push -u origin --all;hug -f happy_birthday.py
-```
 
 $ autopep8 --in-place --aggressive --aggressive --recursive --verbose .;git status;git add .;git commit;git pull origin master;git push -u origin --all;hug -f happy_birthday. 
 [file:./happy_birthday.py]
@@ -44,4 +43,4 @@ Everything up-to-date
 
 Serving on port 8000...
 
-
+```
